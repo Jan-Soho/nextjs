@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "frontmatter-markdown-loader": "^3.6.2",
+    "netlify-cms-app": "^2.15.11",
     "next": "10.x",
     "react": "17.x",
     "react-dom": "17.x"
