@@ -3,7 +3,7 @@ export default {
   backend: {
     name: "github",
     repo: "Jan-Soho/nextjs",
-    branch: "main",
+    branch: "master",
   },
   media_folder: "public/img",
   public_folder: "img",
